@@ -11,3 +11,6 @@ drag and drop
 
 # Perview
 https://youtu.be/M0Nf8cPCAWY
+
+# متطلبات سكربت
+https://github.com/0xwaleed/0xludb-fivem
