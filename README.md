@@ -14,3 +14,6 @@ https://youtu.be/M0Nf8cPCAWY
 
 # متطلبات سكربت
 https://github.com/0xwaleed/0xludb-fivem
+
+# Discord 
+https://discord.gg/QH2533PP3G
