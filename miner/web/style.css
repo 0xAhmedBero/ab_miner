@@ -1,0 +1,260 @@
+.container{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    
+}
+
+.main{
+    width: 1300px;
+    height: 640px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.workbutton{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transform: translate(-150%, -5%);
+    width: 285px;
+    height: 74px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: linear-gradient(180deg, rgba(251, 169, 57, 0.30) 9.9%, #FBA939 100%);
+}
+
+.workbuttontext{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transform: translate(0%, 20%);
+    color: #FFF;
+    width: 285px;
+    height: 74px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.workbuttonout{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    transform: translate(-150%, -5%);
+    width: 285px;
+    height: 74px;
+    flex-shrink: 0;
+    border-radius: 15px;
+    background: linear-gradient(180deg, #FBA939 0%, rgba(206, 51, 60, 0.30) 100%);
+}
+
+.workbuttontextout{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 285px;
+    height: 74px;
+    transform: translate(0%, 20%);
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+
+.mainradial{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(40%, 60%);
+}
+
+.xpprogress{
+    position: relative;
+    width: 100px;
+    height: 100px;
+    stroke: rgba(21, 21, 21, 0.44);
+    top: 0;
+    right: 0;
+    stroke-width: 10;
+    transform: translate(50%, 46%);
+    fill: none;
+}
+.progress{
+    fill: none;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    stroke: #EABE71;
+    top: 0;
+    right: 0;
+    transform: translate(50%, 46%);
+    stroke-width: 10;
+
+}
+.leveltext{
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(63%, 400%);
+    width: 158.762px;
+    height: 41.13px;
+    color: #EABE71;
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.leveltextnumber{
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(63%, 520%);
+    width: 158.762px;
+    height: 41.13px;
+    color: #EABE71;
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.onemoney{
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-0%, -0%);
+}
+
+.twomoney{
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(0%, 0%);
+}
+
+.threemoney{
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(0%, 0%);
+}
+
+
+.moneytextlevelone{
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-30%, 440%);
+    width: 158.762px;
+    height: 41.13px;
+    color: #51A788;
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.moneytextleveltwo{
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-30%, 885%);
+    width: 158.762px;
+    height: 41.13px;
+    color: #51A788;
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.moneytextlevelthree{
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-30%, 1330%);
+    width: 158.762px;
+    height: 41.13px;
+    color: #51A788;
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.workname{
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-250%, 300%);
+    width: 158.762px;
+    height: 41.13px;
+    color: #fff;
+    text-align: center;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+.worktext{
+    position: absolute;
+    top: 0;
+    right: 0;
+    transform: translate(-90%, 70%);
+    width: 470px;
+    height: 324px;
+    color: #fff;
+    text-align: right;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.image1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(40%, 240%);
+    width: 311px;
+    height: 137px;
+    border-radius: 14px;
+}
+
+.image2{
+    position: absolute;
+    top: 0;
+    left: 0;
+    transform: translate(40%, 360%);
+    width: 311px;
+    height: 137px;
+    border-radius: 14px;
+}
